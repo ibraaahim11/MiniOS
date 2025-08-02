@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-hesham-abdel-dayem/)
 
 # MiniOS - Process Scheduler Simulation
 
@@ -73,3 +75,4 @@ make clean
 ```
 
 For more details, see the comments in each source file.
+
